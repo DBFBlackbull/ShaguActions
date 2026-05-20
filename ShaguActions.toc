@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: |cffffcc00Shagu|cffffffffActions
 ## Author: Shagu
-## Notes: No Description
+## Notes: Saves and restores one actionbar profile for each of the 3 skill trees.
 ## Version: 0.1
 ## SavedVariables: ShaguActions_DB
 
